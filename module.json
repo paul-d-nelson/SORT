@@ -1,0 +1,12 @@
+{
+  "id": "SORT",
+  "name": "Scripted Overrides that Rename Things",
+  "author": "EQLIBRIIM",
+  "version": "1.6.0",
+  "released": "11/17/2017",
+  "updated": "6/11/2019",
+  "description": "A brand spanking new sorting mod to soothe your sorting needs!",
+  "requires": ["unifiedPatchingFramework"],
+  "moduleLoader": "UPF",
+  "canHotLoad": true
+}
